@@ -45,7 +45,7 @@ const FooterComponent = ()=>{
                         </Col>
                         <Col className='col-12'>
                             <div className="footerCopyright">
-                                <small>© Designed by students of B3</small>
+                                <small>© Designed by Adit Shah</small>
                             </div>
                         </Col>
                    </Row>
